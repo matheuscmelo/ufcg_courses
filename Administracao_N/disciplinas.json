@@ -1,0 +1,708 @@
+[
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Enade/Ingressante",
+      "creditos": null,
+      "tipo": "Complementar",
+      "pre_requisitos": [],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305254,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [
+        1301063
+      ],
+      "disciplina": "Introdução a Sociologia",
+      "creditos": null,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1305027,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Orcamento Público",
+      "creditos": null,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1114031
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301074,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Contabilidade Publica",
+      "creditos": null,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301001
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301075,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Administração Municipal",
+      "creditos": null,
+      "tipo": "Complementar",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301029,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Método e Técnica de Pesquisa I",
+      "creditos": null,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1114031
+      ],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305052,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Enade/Concluinte",
+      "creditos": null,
+      "tipo": "Complementar",
+      "pre_requisitos": [],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305253,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Introdução a Política",
+      "creditos": null,
+      "tipo": "Complementar",
+      "pre_requisitos": [],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305184,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Direito Administrativo",
+      "creditos": null,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1305072
+      ],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305075,
+      "horas": null
+    },
+    {
+      "semestre": null,
+      "pos_requisitos": [],
+      "disciplina": "Estágio Supervisionado (Publica)",
+      "creditos": null,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301111,
+      "horas": null
+    },
+    {
+      "semestre": 1,
+      "pos_requisitos": [
+        1301004,
+        1301075
+      ],
+      "disciplina": "Contabilidade Geral",
+      "creditos": 6,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301001,
+      "horas": 90
+    },
+    {
+      "semestre": 1,
+      "pos_requisitos": [
+        1301026
+      ],
+      "disciplina": "Introdução a Administração",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301005,
+      "horas": 60
+    },
+    {
+      "semestre": 1,
+      "pos_requisitos": [
+        1303002
+      ],
+      "disciplina": "Economia I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13030000,
+      "codigo_disciplina": 1303001,
+      "horas": 60
+    },
+    {
+      "semestre": 1,
+      "pos_requisitos": [
+        1109084
+      ],
+      "disciplina": "Matemática Aplicada à Administração I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 11090000,
+      "codigo_disciplina": 1109083,
+      "horas": 60
+    },
+    {
+      "semestre": 2,
+      "pos_requisitos": [
+        1301057
+      ],
+      "disciplina": "Estrutura e Análise de Balanço",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301001
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301004,
+      "horas": 60
+    },
+    {
+      "semestre": 2,
+      "pos_requisitos": [
+        1301027
+      ],
+      "disciplina": "Teoria Geral Administração I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301005
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301026,
+      "horas": 60
+    },
+    {
+      "semestre": 2,
+      "pos_requisitos": [],
+      "disciplina": "Língua Portuguesa",
+      "creditos": 5,
+      "tipo": "Complementar",
+      "pre_requisitos": [],
+      "codigo_departamento": 13070000,
+      "codigo_disciplina": 1307045,
+      "horas": 75
+    },
+    {
+      "semestre": 2,
+      "pos_requisitos": [
+        1114031,
+        1301019
+      ],
+      "disciplina": "Matemática Aplicada à Administração II",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1109083
+      ],
+      "codigo_departamento": 11090000,
+      "codigo_disciplina": 1109084,
+      "horas": 60
+    },
+    {
+      "semestre": 2,
+      "pos_requisitos": [],
+      "disciplina": "Economia II",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1303001
+      ],
+      "codigo_departamento": 13030000,
+      "codigo_disciplina": 1303002,
+      "horas": 60
+    },
+    {
+      "semestre": 3,
+      "pos_requisitos": [
+        1301057
+      ],
+      "disciplina": "Matemática Financeira",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301011,
+      "horas": 60
+    },
+    {
+      "semestre": 3,
+      "pos_requisitos": [
+        1301072,
+        1301061,
+        1301068,
+        1301064
+      ],
+      "disciplina": "Teoria Geral Administração II",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301026
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301027,
+      "horas": 60
+    },
+    {
+      "semestre": 3,
+      "pos_requisitos": [
+        1301072
+      ],
+      "disciplina": "Introdução à Informática",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 14110000,
+      "codigo_disciplina": 1411137,
+      "horas": 60
+    },
+    {
+      "semestre": 3,
+      "pos_requisitos": [
+        1305073,
+        1305074,
+        1305075
+      ],
+      "disciplina": "Inst do Direito Publ e Privado",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305072,
+      "horas": 60
+    },
+    {
+      "semestre": 4,
+      "pos_requisitos": [
+        1114032,
+        1301085,
+        1305052,
+        1301074
+      ],
+      "disciplina": "Estatistica Descritiva",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1109084
+      ],
+      "codigo_departamento": 11140000,
+      "codigo_disciplina": 1114031,
+      "horas": 60
+    },
+    {
+      "semestre": 4,
+      "pos_requisitos": [],
+      "disciplina": "Sociologia das Organizacoes",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1305027
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301063,
+      "horas": 60
+    },
+    {
+      "semestre": 4,
+      "pos_requisitos": [
+        1301073,
+        1301066,
+        1301037,
+        1411138
+      ],
+      "disciplina": "Organizacao, Sist e Métodos I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301027,
+        1411137
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301072,
+      "horas": 60
+    },
+    {
+      "semestre": 4,
+      "pos_requisitos": [],
+      "disciplina": "Legislacao Social",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1305072
+      ],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305073,
+      "horas": 60
+    },
+    {
+      "semestre": 4,
+      "pos_requisitos": [
+        1301062
+      ],
+      "disciplina": "Introdução à Psicologia",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1304015,
+      "horas": 60
+    },
+    {
+      "semestre": 5,
+      "pos_requisitos": [
+        1301058
+      ],
+      "disciplina": "Administração Financeira I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301011,
+        1301004
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301057,
+      "horas": 60
+    },
+    {
+      "semestre": 5,
+      "pos_requisitos": [],
+      "disciplina": "Inferencia Estatistica",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1114031
+      ],
+      "codigo_departamento": 11140000,
+      "codigo_disciplina": 1114032,
+      "horas": 60
+    },
+    {
+      "semestre": 5,
+      "pos_requisitos": [],
+      "disciplina": "Processo Decisorio",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301027
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301061,
+      "horas": 60
+    },
+    {
+      "semestre": 5,
+      "pos_requisitos": [],
+      "disciplina": "Psicologia das Organizacoes",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1304015
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301062,
+      "horas": 60
+    },
+    {
+      "semestre": 5,
+      "pos_requisitos": [
+        1301070
+      ],
+      "disciplina": "Organizacao, Sist e Métodos II",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301072
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301073,
+      "horas": 60
+    },
+    {
+      "semestre": 6,
+      "pos_requisitos": [
+        1301037,
+        1301007
+      ],
+      "disciplina": "Administração Financeira II",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301057
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301058,
+      "horas": 60
+    },
+    {
+      "semestre": 6,
+      "pos_requisitos": [
+        1301065
+      ],
+      "disciplina": "Administração Mercadológica I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301027
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301064,
+      "horas": 60
+    },
+    {
+      "semestre": 6,
+      "pos_requisitos": [
+        1301067
+      ],
+      "disciplina": "Administração da Produção I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301072
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301066,
+      "horas": 60
+    },
+    {
+      "semestre": 6,
+      "pos_requisitos": [
+        1301069
+      ],
+      "disciplina": "Administração de Recursos Humanos I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301027
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301068,
+      "horas": 60
+    },
+    {
+      "semestre": 6,
+      "pos_requisitos": [],
+      "disciplina": "Legislacao Tributaria",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1305072
+      ],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305074,
+      "horas": 60
+    },
+    {
+      "semestre": 7,
+      "pos_requisitos": [
+        1301040,
+        1301003
+      ],
+      "disciplina": "Contabilidade de Custos",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301058,
+        1301072
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301037,
+      "horas": 60
+    },
+    {
+      "semestre": 7,
+      "pos_requisitos": [],
+      "disciplina": "Administração Mercadológica II",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301064
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301065,
+      "horas": 60
+    },
+    {
+      "semestre": 7,
+      "pos_requisitos": [],
+      "disciplina": "Administração da Produção II",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301066
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301067,
+      "horas": 60
+    },
+    {
+      "semestre": 7,
+      "pos_requisitos": [],
+      "disciplina": "Administração de Recursos Humanos II",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301068
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301069,
+      "horas": 60
+    },
+    {
+      "semestre": 7,
+      "pos_requisitos": [
+        1301071
+      ],
+      "disciplina": "Adm de Recursos Materiais e Patrimoniais",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301073
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301070,
+      "horas": 60
+    },
+    {
+      "semestre": 8,
+      "pos_requisitos": [],
+      "disciplina": "Pesquisa Operacional",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1109084
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301019,
+      "horas": 60
+    },
+    {
+      "semestre": 8,
+      "pos_requisitos": [],
+      "disciplina": "Orcamento Empresarial",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301037
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301040,
+      "horas": 60
+    },
+    {
+      "semestre": 8,
+      "pos_requisitos": [],
+      "disciplina": "Introdução à Filosofia",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13050000,
+      "codigo_disciplina": 1305147,
+      "horas": 60
+    },
+    {
+      "semestre": 8,
+      "pos_requisitos": [],
+      "disciplina": "Administração de Sistemas de Informação",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1301072
+      ],
+      "codigo_departamento": 14110000,
+      "codigo_disciplina": 1411138,
+      "horas": 60
+    },
+    {
+      "semestre": 8,
+      "pos_requisitos": [],
+      "disciplina": "Gerenciamento dos Suprimentos",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301070
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301071,
+      "horas": 60
+    },
+    {
+      "semestre": 9,
+      "pos_requisitos": [],
+      "disciplina": "Análise de Custos",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301037
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301003,
+      "horas": 60
+    },
+    {
+      "semestre": 9,
+      "pos_requisitos": [],
+      "disciplina": "Mercado de Capitais",
+      "creditos": 4,
+      "tipo": "Complementar",
+      "pre_requisitos": [
+        1301058
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301007,
+      "horas": 60
+    },
+    {
+      "semestre": 9,
+      "pos_requisitos": [],
+      "disciplina": "Métodos e Técnicas de Pesquisa I",
+      "creditos": 4,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [
+        1114031
+      ],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301085,
+      "horas": 60
+    },
+    {
+      "semestre": 10,
+      "pos_requisitos": [],
+      "disciplina": "Estágio Supervisionado (Empresa)",
+      "creditos": null,
+      "tipo": "Obrigatória",
+      "pre_requisitos": [],
+      "codigo_departamento": 13010000,
+      "codigo_disciplina": 1301024,
+      "horas": 300
+    }
+  ]
