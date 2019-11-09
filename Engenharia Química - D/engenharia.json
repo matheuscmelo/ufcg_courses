@@ -1,0 +1,492 @@
+[
+    {
+      "nome_comum": "Administração - D",
+      "campus": "CG",
+      "schema": "administracao_d_cg"
+    },
+    {
+      "nome_comum": "Administração - N",
+      "campus": "CG",
+      "schema": "administracao_n_cg"
+    },
+    {
+      "nome_comum": "Administração - N",
+      "campus": "SS",
+      "schema": "administracao_n_ss"
+    },
+    {
+      "nome_comum": "Agronomia - D",
+      "campus": "PL",
+      "schema": "agronomia_d_pl"
+    },
+    {
+      "nome_comum": "Arquitetura e Urbanismo - D",
+      "campus": "CG",
+      "schema": "arquitetura_e_urbanismo_d_cg"
+    },
+    {
+      "nome_comum": "Arte e Mídia - D",
+      "campus": "CG",
+      "schema": "arte_e_midia_d_cg"
+    },
+    {
+      "nome_comum": "Ciencia da Computacao - I",
+      "campus": "CG",
+      "schema": "ciencia_da_computacao_i_cg"
+    },
+    {
+      "nome_comum": "Ciência da Computação - D",
+      "campus": "CG",
+      "schema": "ciencia_da_computacao_d_cg"
+    },
+    {
+      "nome_comum": "Ciências Biológicas (Lic) - D",
+      "campus": "PT",
+      "schema": "ciencias_biologicas_lic_d_pt"
+    },
+    {
+      "nome_comum": "Ciências Biológicas (Lic) - D",
+      "campus": "CT",
+      "schema": "ciencias_biologicas_lic_d_ct"
+    },
+    {
+      "nome_comum": "Ciências Biológicas (Lic) - M",
+      "campus": "CZ",
+      "schema": "ciencias_biologicas_lic_m_cz"
+    },
+    {
+      "nome_comum": "Ciências Biológicas (Lic) - N",
+      "campus": "PT",
+      "schema": "ciencias_biologicas_lic_n_pt"
+    },
+    {
+      "nome_comum": "Ciências Biológicas (Lic) - N",
+      "campus": "CT",
+      "schema": "ciencias_biologicas_lic_n_ct"
+    },
+    {
+      "nome_comum": "Ciências Contábeis - N",
+      "campus": "SS",
+      "schema": "ciencias_contabeis_n_ss"
+    },
+    {
+      "nome_comum": "Ciências Econômicas - M",
+      "campus": "CG",
+      "schema": "ciencias_economicas_m_cg"
+    },
+    {
+      "nome_comum": "Ciências Econômicas - N",
+      "campus": "CG",
+      "schema": "ciencias_economicas_n_cg"
+    },
+    {
+      "nome_comum": "Ciências Sociais (Lic) - D",
+      "campus": "CG",
+      "schema": "ciencias_sociais_lic_d_cg"
+    },
+    {
+      "nome_comum": "Ciências Sociais (Lic) - N",
+      "campus": "SM",
+      "schema": "ciencias_sociais_lic_n_sm"
+    },
+    {
+      "nome_comum": "Comunicação Social - D",
+      "campus": "CG",
+      "schema": "comunicacao_social_d_cg"
+    },
+    {
+      "nome_comum": "Comunicação Social - N",
+      "campus": "CG",
+      "schema": "comunicacao_social_n_cg"
+    },
+    {
+      "nome_comum": "Agroecologia - D",
+      "campus": "SM",
+      "schema": "curso_sup_de_tecn_em_agroecologia_d_sm"
+    },
+    {
+      "nome_comum": "Gestão Pública - N",
+      "campus": "SM",
+      "schema": "curso_sup_de_tecn_em_gestao_publica_n_sm"
+    },
+    {
+      "nome_comum": "Design - D",
+      "campus": "CG",
+      "schema": "design_d_cg"
+    },
+    {
+      "nome_comum": "Educação do Campo (Lic) - D",
+      "campus": "SM",
+      "schema": "educacao_do_campo_lic_d_sm"
+    },
+    {
+      "nome_comum": "Enfermagem - D",
+      "campus": "CZ",
+      "schema": "enfermagem_d_cz"
+    },
+    {
+      "nome_comum": "Enfermagem - D",
+      "campus": "CT",
+      "schema": "enfermagem_d_ct"
+    },
+    {
+      "nome_comum": "Enfermagem - D",
+      "campus": "CG",
+      "schema": "enfermagem_d_cg"
+    },
+    {
+      "nome_comum": "Eng. de Biotecnologia e Bioprocessos - D",
+      "campus": "SM",
+      "schema": "eng_de_biotecnologia_e_bioprocessos_d_sm"
+    },
+    {
+      "nome_comum": "Engenharia Agrícola - D",
+      "campus": "CG",
+      "schema": "engenharia_agricola_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia Ambiental - D",
+      "campus": "PL",
+      "schema": "engenharia_ambiental_d_pl"
+    },
+    {
+      "nome_comum": "Engenharia Civil - D",
+      "campus": "PL",
+      "schema": "engenharia_civil_d_pl"
+    },
+    {
+      "nome_comum": "Engenharia Civil - D",
+      "campus": "CG",
+      "schema": "engenharia_civil_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia de Alimentos - D",
+      "campus": "PL",
+      "schema": "engenharia_de_alimentos_d_pl"
+    },
+    {
+      "nome_comum": "Engenharia de Alimentos - D",
+      "campus": "CG",
+      "schema": "engenharia_de_alimentos_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia de Biossistemas - D",
+      "campus": "SM",
+      "schema": "engenharia_de_biossistemas_d_sm"
+    },
+    {
+      "nome_comum": "Engenharia de Materiais - D",
+      "campus": "CG",
+      "schema": "engenharia_de_materiais_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia de Minas - D",
+      "campus": "CG",
+      "schema": "engenharia_de_minas_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia de Petróleo - D",
+      "campus": "CG",
+      "schema": "engenharia_de_petroleo_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia de Produção - D",
+      "campus": "CG",
+      "schema": "engenharia_de_producao_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia de Produção - D",
+      "campus": "SM",
+      "schema": "engenharia_de_producao_d_sm"
+    },
+    {
+      "nome_comum": "Engenharia Elétrica",
+      "campus": "CG",
+      "schema": "engenharia_eletrica_cg"
+    },
+    {
+      "nome_comum": "Engenharia Florestal - D",
+      "campus": "PT",
+      "schema": "engenharia_florestal_d_pt"
+    },
+    {
+      "nome_comum": "Engenharia Mecânica - D",
+      "campus": "CG",
+      "schema": "engenharia_mecanica_d_cg"
+    },
+    {
+      "nome_comum": "Engenharia Química - D",
+      "campus": "CG",
+      "schema": "engenharia_quimica_d_cg"
+    },
+    {
+      "nome_comum": "Estatística - D",
+      "campus": "CG",
+      "schema": "estatistica_d_cg"
+    },
+    {
+      "nome_comum": "Farmácia - D",
+      "campus": "CT",
+      "schema": "farmacia_d_ct"
+    },
+    {
+      "nome_comum": "Filosofia (Bac) - N",
+      "campus": "CG",
+      "schema": "filosofia_bac_n_cg"
+    },
+    {
+      "nome_comum": "Filosofia (Lic) - N",
+      "campus": "CG",
+      "schema": "filosofia_lic_n_cg"
+    },
+    {
+      "nome_comum": "Filosofia - N",
+      "campus": "CG",
+      "schema": "filosofia_n_cg"
+    },
+    {
+      "nome_comum": "Física (Lic) - D",
+      "campus": "CG",
+      "schema": "fisica_lic_d_cg"
+    },
+    {
+      "nome_comum": "Física (Lic) - D",
+      "campus": "CT",
+      "schema": "fisica_lic_d_ct"
+    },
+    {
+      "nome_comum": "Física (Lic) - N",
+      "campus": "CZ",
+      "schema": "fisica_lic_n_cz"
+    },
+    {
+      "nome_comum": "Física (Lic) - N",
+      "campus": "CT",
+      "schema": "fisica_lic_n_ct"
+    },
+    {
+      "nome_comum": "Geografia (Lic) - D",
+      "campus": "CG",
+      "schema": "geografia_lic_d_cg"
+    },
+    {
+      "nome_comum": "Geografia (Lic) - N",
+      "campus": "CG",
+      "schema": "geografia_lic_n_cg"
+    },
+    {
+      "nome_comum": "Geografia (Licenciatura) - M",
+      "campus": "CZ",
+      "schema": "geografia_licenciatura_m_cz"
+    },
+    {
+      "nome_comum": "Geografia (Licenciatura) - N",
+      "campus": "CZ",
+      "schema": "geografia_licenciatura_n_cz"
+    },
+    {
+      "nome_comum": "História (Lic) - D",
+      "campus": "CG",
+      "schema": "historia_lic_d_cg"
+    },
+    {
+      "nome_comum": "História (Lic) - D (Parfor)",
+      "campus": "CG",
+      "schema": "historia_lic_d_parfor_cg"
+    },
+    {
+      "nome_comum": "História (Lic) - M",
+      "campus": "CZ",
+      "schema": "historia_lic_m_cz"
+    },
+    {
+      "nome_comum": "História (Lic) - N",
+      "campus": "CG",
+      "schema": "historia_lic_n_cg"
+    },
+    {
+      "nome_comum": "História (Lic) - N",
+      "campus": "CZ",
+      "schema": "historia_lic_n_cz"
+    },
+    {
+      "nome_comum": "Letras - Espanhol (Licenciatura) N",
+      "campus": "CG",
+      "schema": "letras_espanhol_licenciatura_n_cg"
+    },
+    {
+      "nome_comum": "Letras - Líng.Port./Líng.Franc.(Lic)-D",
+      "campus": "CG",
+      "schema": "letras_ling_port_ling_franc_lic_d_cg"
+    },
+    {
+      "nome_comum": "Letras - Língua Inglesa (Lic) - D",
+      "campus": "CG",
+      "schema": "letras_lingua_inglesa_lic_d_cg"
+    },
+    {
+      "nome_comum": "Letras - Língua Inglesa (Lic) - D",
+      "campus": "CZ",
+      "schema": "letras_lingua_inglesa_lic_d_cz"
+    },
+    {
+      "nome_comum": "Letras - Língua Portuguesa (Lic) - M",
+      "campus": "CZ",
+      "schema": "letras_lingua_portuguesa_lic_m_cz"
+    },
+    {
+      "nome_comum": "Letras - Língua Portuguesa (Lic) - N",
+      "campus": "CZ",
+      "schema": "letras_lingua_portuguesa_lic_n_cz"
+    },
+    {
+      "nome_comum": "Letras - Língua Portuguesa (Lic) - N",
+      "campus": "CG",
+      "schema": "letras_lingua_portuguesa_lic_n_cg"
+    },
+    {
+      "nome_comum": "Letras - Língua Vernácula (Lic) - M",
+      "campus": "CZ",
+      "schema": "letras_lingua_vernacula_lic_m_cz"
+    },
+    {
+      "nome_comum": "Letras- Língua Portuguesa (Lic) - D",
+      "campus": "CG",
+      "schema": "letras_lingua_portuguesa_lic_d_cg"
+    },
+    {
+      "nome_comum": "Licenciatura Indígena - D",
+      "campus": "CG",
+      "schema": "licenciatura_indigena_d_cg"
+    },
+    {
+      "nome_comum": "Matemática (Bac) - D",
+      "campus": "CG",
+      "schema": "matematica_bac_d_cg"
+    },
+    {
+      "nome_comum": "Matemática (Lic) - D",
+      "campus": "CT",
+      "schema": "matematica_lic_d_ct"
+    },
+    {
+      "nome_comum": "Matemática (Lic) - D",
+      "campus": "CG",
+      "schema": "matematica_lic_d_cg"
+    },
+    {
+      "nome_comum": "Matemática (Lic) - D",
+      "campus": "CZ",
+      "schema": "matematica_lic_d_cz"
+    },
+    {
+      "nome_comum": "Matemática (Lic) - D (Parfor)",
+      "campus": "CG",
+      "schema": "matematica_lic_d_parfor_cg"
+    },
+    {
+      "nome_comum": "Matemática (Lic) - N",
+      "campus": "CT",
+      "schema": "matematica_lic_n_ct"
+    },
+    {
+      "nome_comum": "Matemática (Lic) - N",
+      "campus": "CG",
+      "schema": "matematica_lic_n_cg"
+    },
+    {
+      "nome_comum": "Medicina - D",
+      "campus": "CG",
+      "schema": "medicina_d_cg"
+    },
+    {
+      "nome_comum": "Medicina - D",
+      "campus": "CZ",
+      "schema": "medicina_d_cz"
+    },
+    {
+      "nome_comum": "Medicina Veterinária - D",
+      "campus": "PT",
+      "schema": "medicina_veterinaria_d_pt"
+    },
+    {
+      "nome_comum": "Meteorologia - D",
+      "campus": "CG",
+      "schema": "meteorologia_d_cg"
+    },
+    {
+      "nome_comum": "Música (Bac) - D",
+      "campus": "CG",
+      "schema": "musica_bac_d_cg"
+    },
+    {
+      "nome_comum": "Música (Lic) - D",
+      "campus": "CG",
+      "schema": "musica_lic_d_cg"
+    },
+    {
+      "nome_comum": "Nutrição - D",
+      "campus": "CT",
+      "schema": "nutricao_d_ct"
+    },
+    {
+      "nome_comum": "Nutrição - N",
+      "campus": "CT",
+      "schema": "nutricao_n_ct"
+    },
+    {
+      "nome_comum": "Odontologia - D",
+      "campus": "PT",
+      "schema": "odontologia_d_pt"
+    },
+    {
+      "nome_comum": "Pedagogia (Lic) - M",
+      "campus": "CG",
+      "schema": "pedagogia_lic_m_cg"
+    },
+    {
+      "nome_comum": "Pedagogia (Lic) - N",
+      "campus": "CG",
+      "schema": "pedagogia_lic_n_cg"
+    },
+    {
+      "nome_comum": "Pedagogia (Licenciatura) - M",
+      "campus": "CZ",
+      "schema": "pedagogia_licenciatura_m_cz"
+    },
+    {
+      "nome_comum": "Pedagogia (Licenciatura) - N",
+      "campus": "CZ",
+      "schema": "pedagogia_licenciatura_n_cz"
+    },
+    {
+      "nome_comum": "Psicologia - N",
+      "campus": "CG",
+      "schema": "psicologia_n_cg"
+    },
+    {
+      "nome_comum": "Química (Lic) - D",
+      "campus": "CT",
+      "schema": "quimica_lic_d_ct"
+    },
+    {
+      "nome_comum": "Química (Lic) - N",
+      "campus": "CZ",
+      "schema": "quimica_lic_n_cz"
+    },
+    {
+      "nome_comum": "Química (Lic) - N",
+      "campus": "CT",
+      "schema": "quimica_lic_n_ct"
+    },
+    {
+      "nome_comum": "Química (Lic) - N (Parfor)",
+      "campus": "CG",
+      "schema": "quimica_lic_n_parfor_cg"
+    },
+    {
+      "nome_comum": "Serviço Social - M",
+      "campus": "SS",
+      "schema": "servico_social_m_ss"
+    }
+  ]
